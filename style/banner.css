@@ -1,5 +1,5 @@
 .banner{
-    background-color: rgb( 221, 6, 135);
+    background-color: rgb(221, 6, 135);
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
@@ -15,18 +15,16 @@
     margin: 1em 0;
 }
 
-.banner__pesquisa {
+.banner__pesquisa{
     background-color: var(--fonte-principal);
     border: 1px solid var(--branco);
-/*borda precisa de: tamanho tipo e cor*/
     color: var(--branco);
     border-radius: 24px;
-/*arredonda a borda do campo*/
     padding: 1em;
     width: 100%;
 }
 
-.banner__pesquisa::placeholder {
+.banner__pesquisa::placeholder{
     font-family: var(--fonte-principal);
     font-size: 14px;
     font-weight: 400;
