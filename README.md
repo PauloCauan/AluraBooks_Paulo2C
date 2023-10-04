@@ -1,2 +1,2 @@
-# AluraBooksRhuan2A
+# AluraBooks
 Site desenvolvido com a professora Vla
